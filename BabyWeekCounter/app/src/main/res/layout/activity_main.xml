@@ -18,8 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/default_activity_margin"
-            android:adjustViewBounds="true"
-            android:src="@drawable/semana_11_v2"/>
+            android:adjustViewBounds="true" />
         <TextView
             style="@style/AppTheme.Label.Primary"
             android:layout_width="wrap_content"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"></string>
+    <string name="app_name">Baby Weeks</string>
     <string name="hello">Hola Mamá</string>
     <string name="fre_label">Elige la fecha de tu último período.</string>
     <string name="week_label">Estas en tu semana número</string>
