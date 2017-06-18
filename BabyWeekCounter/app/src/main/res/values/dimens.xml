@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_activity_margin">16dp</dimen>
+    <dimen name="negative_status_var">-24dp</dimen>
+
+    <dimen name="primary_label">32sp</dimen>
+    <dimen name="bigger_label">96sp</dimen>
+</resources>
